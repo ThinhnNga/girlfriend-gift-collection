@@ -1,12 +1,12 @@
 [
-    { "msgs": ["Hi，在干嘛呢？"], "msgInputSpeed": 80 },
+    { "msgs": ["Hellu bé pồ đáng iu cụa anh 🥰😘. "], "msgInputSpeed": 80 },
     {
-        "msgs": ["知道今天是什么日子吗？"],
+        "msgs": ["Em có bếch hôm nay ngày mấy khom nè ？😼"],
         "msgInputSpeed": 80,
         "triggerNextAction": {
             "type": "userInput",
             "options": {
-                "resolveKeyTexts": ["情人节", "情人", "纪念日"],
+                "resolveKeyTexts": ["Ngày 8/3", "Ngày 8/3 ạa", "Ngày 8/3 ạaaa"],
                 "rejectKeyTexts": [],
                 "rejectHitTexts": [
                     "给你提示一下，今天是2022年2月14号喔",
